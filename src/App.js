@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn RPG
+          Learn Coco
         </a>
       </header>
     </div>
